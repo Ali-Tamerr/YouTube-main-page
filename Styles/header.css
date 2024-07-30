@@ -113,6 +113,7 @@ p{
 
 .my-channel{
     width: 32px;
+    border-radius: 100px;
     cursor: pointer;
 }
 
